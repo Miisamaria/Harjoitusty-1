@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+h3{
+  margin: 10px;
+}
+form{
+  margin: 20px;
+  padding: 10px;
+}
+
+input{
+  margin: 5px ;
+}
+
+output{
+  margin: 20px;
+  padding: 10px;
+}
